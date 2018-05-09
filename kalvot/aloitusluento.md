@@ -10,7 +10,7 @@
 
 - Telegram-kanava https://t.me/tkttiralabra/
 - IRC-kanava **#tiralabra2017** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2018-kevat-p4
+- Kurssisivu https://github.com/TiraLabra/2018-alku
 
 # Mistä kyse?
 
